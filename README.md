@@ -10,6 +10,9 @@
  ```shell
  https://raw.githubusercontent.com/Solmonz/sam_Subconverter/main/Sub.ini
  ```  
+ ```shell
+ https://raw.githubusercontent.com/Solmonz/sam_Subconverter/main/test.ini
+ ```  
 方法二：
 替换订阅链接到下面的链接中
 
