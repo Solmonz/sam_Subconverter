@@ -28,6 +28,11 @@ https://sub.1688.al/sub?target=clash&insert=true&new_name=true&scv=true&udp=true
 ```shell
 https://sub.1688.al
 ```  
+### 如果连接不了 可以添加一个代理（针对第一种 第二种）
+
+```shell
+https://ghproxy.com/
+```  
 
 ## 免责声明：
 后端地址均为网上收集，如出现订阅地址泄漏等问题，与本项目无关，概不负责。  
