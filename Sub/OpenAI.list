@@ -1,7 +1,7 @@
 # NAME: OpenAI
-# UPDATED: 2023-04-29
+# UPDATED: 2023-05-29
 # DOMAIN: 
-# DOMAIN-SUFFIX: 9
+# DOMAIN-SUFFIX: 10
 # PROCESS-NAME: 1
 # TOTAL: 11
 
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,sentry.io
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 # Add stripe.com
