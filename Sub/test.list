@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,decrypt.day
-DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepoint.com#ozan
+DOMAIN-SUFFIX,ozan.com
+DOMAIN-SUFFIX,op-prod-tr.ozan.com
+DOMAIN-KEYWORD,ozan
