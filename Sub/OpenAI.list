@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 # Add justmysocks.ne
 DOMAIN-SUFFIX,justmysocks.ne
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,auth0.com
 
 PROCESS-NAME,msedgewebview2.exe
 
