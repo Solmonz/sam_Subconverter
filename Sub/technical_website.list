@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 
+# linux.do 
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,connect.linux.do
 # hostloc
 DOMAIN-SUFFIX,hostloc.com
 
