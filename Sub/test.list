@@ -1,5 +1,12 @@
+## 自定义网站
+
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,sharepoint.com#ozan
 DOMAIN-SUFFIX,ozan.com
 DOMAIN-SUFFIX,op-prod-tr.ozan.com
 DOMAIN-KEYWORD,ozan
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,www.nodeseek.com
+DOMAIN-SUFFIX,www.v2ex.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,linux.do
